@@ -1,5 +1,6 @@
 # Modelo de requisição(CREATE) 
 
+```json
 {
   "imovel": {
     "preco": 1000,
@@ -23,3 +24,5 @@
     "complemento": "Casa A",
   }
 }
+```
+
