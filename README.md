@@ -1,6 +1,5 @@
-# teste_desenvolvimento
+# Modelo de requisição(CREATE) 
 
-Modelo de requisição(CREATE)
 {
   "imovel": {
     "preco": 1000,
